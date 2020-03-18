@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+
+<head>
+    <title>Educational Institute</title>
+
+</head>
+<body>
+
+    <style>
+        .Header {
+        }
+
+            .Header img {
+                width: 100%;
+                height: 150px
+            }
+    </style>
+
+    <div class="Header">
+        <img src="~/images/banner.jpg" />
+    </div>
+
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="Home">Educational Institute</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="Home">Home</a></li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="About">About<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="About/Information">Information</a></li>
+                        <li><a href="About/Mission">Mission</a></li>
+                        <li><a href="About/Chancellor_and_Principal_Officers">Chancellor and Principal Officers</a></li>
+                    </ul>
+                </li>
+
+
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Academics<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="Academics/Courses_and_Tuition_Fees">Courses & Tuition Fees</a></li>
+                        <li><a href="Academics/Academic_Calender">Academic Calender</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="Faculty">Faculty</a></li>
+                <li><a href="Admission">Admission</a></li>
+                <li><a href="Contact">Contact</a></li>
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="Sign_Up"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                <li><a href="Login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Department</th>
+                    <th>Credit</th>
+                    <th>Fees(Taka)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>BCSE</td>
+                    <td>143</td>
+                    <td>650000</td>
+                </tr>
+                <tr class="success">
+                    <td>BSEEE</td>
+                    <td>166</td>
+                    <td>675000</td>
+                </tr>
+                <tr class="danger">
+                    <td>BSME</td>
+                    <td>165</td>
+                    <td>674000</td>
+                </tr>
+                <tr class="info">
+                    <td>BSCE</td>
+                    <td>167</td>
+                    <td>680000</td>
+                </tr>
+                <tr class="warning">
+                    <td>BBA</td>
+                    <td>136</td>
+                    <td>610000</td>
+                </tr>
+                <tr class="active">
+                    <td>BSAG</td>
+                    <td>149</td>
+                    <td>550000</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+
+</body>
+</html>

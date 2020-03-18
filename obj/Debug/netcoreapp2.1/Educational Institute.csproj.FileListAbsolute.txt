@@ -1,0 +1,39 @@
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\bin\Debug\netcoreapp2.1\Educational Institute.deps.json
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\bin\Debug\netcoreapp2.1\Educational Institute.runtimeconfig.json
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\bin\Debug\netcoreapp2.1\Educational Institute.runtimeconfig.dev.json
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\bin\Debug\netcoreapp2.1\Educational Institute.dll
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\bin\Debug\netcoreapp2.1\Educational Institute.pdb
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\bin\Debug\netcoreapp2.1\Educational Institute.Views.dll
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\bin\Debug\netcoreapp2.1\Educational Institute.Views.pdb
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.csprojAssemblyReference.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.csproj.CoreCompileInputs.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.RazorAssemblyInfo.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.RazorAssemblyInfo.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.AssemblyInfoInputs.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.AssemblyInfo.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.TagHelpers.input.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.TagHelpers.output.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.RazorCoreGenerate.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.RazorTargetAssemblyInfo.cache
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.RazorTargetAssemblyInfo.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.Views.pdb
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.dll
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.pdb
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Educational Institute.csproj.CopyComplete
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Admission\Index.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\About\Information.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\About\Mission.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\About\Chancellor_and_Principal_Officers.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Academics\Courses_and_Tuition_Fees.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Academics\Academic_Calender.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Sign_Up\Index.g.cshtml.cs
+D:\7th Semester\CSC 440\C#\Educational Institute\Educational Institute\obj\Debug\netcoreapp2.1\Razor\Views\Faculty\Index.g.cshtml.cs

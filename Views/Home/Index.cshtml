@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+
+<head>
+    <title>Educational Institute</title>
+    
+</head>
+<body>
+
+    <style>
+        .Header {
+        }
+
+            .Header img {
+                width: 100%;
+                height: 150px
+            }
+
+        .body_sidebar {
+            width: 100%;
+            height: 500px
+        }
+
+        .carousel_1 {
+            width: 70%;
+            height: 500px;
+            float: left
+        }
+
+        .carousel-inner {
+            width: 100%;
+            height: 500px
+        }
+        .slider {
+            width: 28%;
+            height: 500px;
+            float: right
+        }
+    </style>
+
+    <div class="Header">
+        <img src="images/banner.jpg" />
+    </div>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="Home">Educational Institute</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="Home">Home</a></li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="About">About<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="About/Information">Information</a></li>
+                        <li><a href="About/Mission">Mission</a></li>
+                        <li><a href="About/Chancellor_and_Principal_Officers">Chancellor and Principal Officers</a></li>
+                    </ul>
+                </li>
+
+
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Academics<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="Academics/Courses_and_Tuition_Fees">Courses & Tuition Fees</a></li>
+                        <li><a href="Academics/Academic_Calender">Academic Calender</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="Faculty">Faculty</a></li>
+                <li><a href="Admission">Admission</a></li>
+                <li><a href="Contact">Contact</a></li>
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="Sign_Up"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                <li><a href="Login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="body_sidebar">
+        <div class="carousel_1">
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ol>
+
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="~/images/pic1.jpg" alt="Class Room">
+
+                    </div>
+
+                    <div class="item">
+                        <img src="~/images/pic2.jpg" alt="Study Area">
+                    </div>
+
+                    <div class="item">
+                        <img src="~/images/pic3.jpg" alt="Situtaion IUBATIANS">
+                    </div>
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+
+        </div>
+
+        <div class="slider">
+            <h1 style="background-color:DodgerBlue;">Notice</h1>
+
+            <p style="background-color:Tomato;">
+                Mr. Shib Narayan Kairy has joined BRAC University as Treasurer on 2nd July 2017 in which role he will provide oversight to the university’s major upcoming project – the building of a US$ 100 million state-of-the-art campus. He will also ensure that the university continues to be a financially sustainable centre of excellence for higher education in Bangladesh.
+
+                In addition, Mr Kairy will continue to serve in the Boards of BRAC Bank Limited, BRAC EPL Investment Limited, BRAC EPL Stock Brokerage Limited, and BRAC Tea Company Limited.
+                <br>
+                Mr. Shib Narayan Kairy has joined BRAC University as Treasurer on 2nd July 2017 in which role he will provide oversight to the university’s major upcoming project – the building of a US$ 100 million state-of-the-art campus. He will also ensure that the university continues to be a financially sustainable centre of excellence for higher education in Bangladesh.
+
+                In addition, Mr Kairy will continue to serve in the Boards of BRAC Bank Limited, BRAC EPL Investment 
+            </p>
+        </div>
+        
+    </div>
+
+    
+
+
+
+</body>
+</html>

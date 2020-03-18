@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+
+<head>
+    <title>Educational Institute</title>
+
+</head>
+<body>
+
+    <style>
+        .Header {
+        }
+
+            .Header img {
+                width: 100%;
+                height: 150px
+            }
+
+        .signup_form {
+            margin: auto;
+            width: 90%;
+            height: 500px;
+            border: 3px solid green;
+            padding: 10px;
+           
+        }
+        h2{
+            text-align:center
+        }
+
+        .register-btn {
+            text-align: center
+        }
+
+    </style>
+
+    <div class="Header">
+        <img src="~/images/banner.jpg" />
+    </div>
+
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="Home">Educational Institute</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="Home">Home</a></li>
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">About<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="About/Information">Information</a></li>
+                        <li><a href="About/Mission">Mission</a></li>
+                        <li><a href="About/Chancellor_and_Principal_Officers">Chancellor and Principal Officers</a></li>
+                    </ul>
+                </li>
+
+
+
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Academics<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="Academics/Courses_and_Tuition_Fees">Courses & Tuition Fees</a></li>
+                        <li><a href="Academics/Academic_Calender">Academic Calender</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="Faculty">Faculty</a></li>
+                <li><a href="Admission">Admission</a></li>
+                <li><a href="Contact">Contact</a></li>
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="Sign_Up"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                <li><a href="Login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <div class="signup_form">
+
+        <h2><b>Sign-Up</b></h2>
+
+        <form class="form-horizontal">
+            
+            <div class="form-group">
+                <label for="inputName" class="control-label col-xs-2">Name</label>
+                <div class="col-xs-10">
+                    <input type="Name" class="form-control" id="inputName" placeholder="Name">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputPhone" class="control-label col-xs-2">Phone Number</label>
+                <div class="col-xs-10">
+                    <input type="Phone" class="form-control" id="inputPhone" placeholder="Phone">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputAddress" class="control-label col-xs-2">Address</label>
+                <div class="col-xs-10">
+                    <input type="Address" class="form-control" id="inputAddress" placeholder="Address">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputAuthorization" class="control-label col-xs-2">Authorization Code</label>
+                <div class="col-xs-10">
+                    <input type="Authorization" class="form-control" id="inputAuthorization" placeholder="Authorization">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="inputPassword" class="control-label col-xs-2">Password</label>
+                <div class="col-xs-10">
+                    <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="inputPassword" class="control-label col-xs-2">Re-type Password</label>
+                <div class="col-xs-10">
+                    <input type="password" class="form-control" id="inputPassword" placeholder="Re-type Password">
+                </div>
+            </div>
+            <div class="register-btn">
+                <div class="form-group">
+                    <div class="col-xs-offset-2 col-xs-10">
+                        <button type="submit" class="btn btn-primary">Register</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+</body>
+</html>
